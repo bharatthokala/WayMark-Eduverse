@@ -1,2 +1,2 @@
 # WayMark-Eduverse
-Personalized learning &amp; career roadmap tracker for students.
+Personalized learning career roadmap tracker for students.
